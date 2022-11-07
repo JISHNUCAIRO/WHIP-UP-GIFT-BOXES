@@ -1,0 +1,45 @@
+h1
+{
+   color: gold;    
+}
+body
+{
+   background-image: linear-gradient(rgb(48, 126, 210),rgb(156, 72, 127));
+   background-attachment: fixed;
+}
+#out
+{
+   
+   margin-left: 80px;
+   margin-right: 80px;
+}
+div
+{
+   margin-bottom:20px;
+   background-color: white;  
+   padding-left: 3px;
+   float: left;
+}
+p
+{
+   margin-left: 100px;
+   color: aqua;
+}
+button
+{
+    border: 1px solid black;
+   border-radius: 7px;
+   background-color: yellowgreen;
+}
+input[type=text]
+{
+   border: 1px solid black;
+   width: 25%;
+   border-radius: 7px;
+   background-color: palevioletred;
+   text-shadow: 8px;
+}
+::placeholder
+{
+   color: black;
+}
